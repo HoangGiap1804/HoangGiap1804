@@ -41,11 +41,11 @@
 
 <div align="justify">
 
-I am a passionate **Software Developer** dedicated to building **efficient and elegant solutions**. My journey in technology is driven by **continuous learning** and a commitment to creating impactful software.
+I am a focused **Software Developer** with a passion for building robust, scalable applications. My expertise lies in backend architecture with **Java (Spring Boot)** and creating cross-platform mobile experiences using **Dart (Flutter)**.
 
-Currently, I am focusing on expanding my expertise in **modern web development** and **mobile applications**. I enjoy the intersection of **creative design and technical implementation**, ensuring every project I work on is both functional and visually appealing.
+I thrive in the **monochrome world of Linux**, specifically **NixOS** and **Arch**, where I automate and optimize my development environment. Beyond coding, I am deeply interested in **Messaging & Security** (Kafka, Keycloak) and maintaining high-quality data layers with **PostgreSQL** and **Hibernate**.
 
-Feel free to explore my repositories and reach out if you'd like to collaborate!
+When I'm not in a terminal (likely using **Vim**), I'm exploring system-level optimizations or crafting assets in **Blender**. I'm always open to collaborating on innovative projects!
 
 </div>
 
@@ -65,14 +65,14 @@ Feel free to explore my repositories and reach out if you'd like to collaborate!
           title="My Pinterest"/>
   </a>
   <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/" target="_blank">
+  <a href="https://www.linkedin.com/in/nguyengiap/" target="_blank">
     <img width="100px" 
           src="https://img.shields.io/badge/Linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" 
           alt="Linkedin"
           title="My LinkedIn"/>
   </a>
   <!-- GMail  -->
-  <a href="https://mail.google.com/mail/?view=cm&to=YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=hgiap1804@gmail.com" target="_blank">
     <img width="97px" 
           src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" 
           alt="E-mail"
@@ -84,8 +84,6 @@ Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 <div align="center">
 
-> [!Caution]
->
 > Code is never finished, it only gets **better**.
 
 </div>
@@ -101,21 +99,25 @@ Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 <table align="center">
   <tr>
-    <!-- Skills -->
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
       <div align="center">
-        <strong>My Stack</strong>
-        </br></br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp&theme=light" /><br>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=light" /><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,git,github,figma&theme=light" /><br>
-        <img src="https://skillicons.dev/icons?i=vercel,postman,androidstudio,arduino,vscode&theme=light" /><br>
-      </div>
-    </td>
-    <!-- Stats -->
-    <td valign="top" width="50%">
-      <div align="center">
-        [![GitHub Streak](https://streak-stats.demolab.com?user=HoangGiap1804&theme=light&background=FFFFFF&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000)](https://git.io/streak-stats)
+        <strong>Programming Languages & Frameworks</strong><br>
+        <img src="https://skillicons.dev/icons?i=java,spring,dart,flutter,ts&theme=light" />
+        <br><br>
+        <strong>Database</strong><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,hibernate&theme=light" />
+        <br><br>
+        <strong>Messaging & Security</strong><br>
+        <img src="https://skillicons.dev/icons?i=kafka,keycloak,oauth2&theme=light" />
+        <br><br>
+        <strong>Version Control</strong><br>
+        <img src="https://skillicons.dev/icons?i=git,github,bitbucket&theme=light" />
+        <br><br>
+        <strong>Operating Systems</strong><br>
+        <img src="https://skillicons.dev/icons?i=linux,nix,arch,ubuntu,docker&theme=light" />
+        <br><br>
+        <strong>Tools</strong><br>
+        <img src="https://skillicons.dev/icons?i=vscode,idea,vim,blender&theme=light" />
       </div>
     </td>
   </tr>
