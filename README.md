@@ -57,13 +57,6 @@ When I'm not in a terminal (likely using **Vim**), I'm exploring system-level op
   <strong>Connect with me</strong>
   </br>
 
-  <!-- Pinterest -->
-  <a href="https://br.pinterest.com/YOUR_PINTEREST_ID/" target="_blank">
-    <img width="130px" 
-          src="https://img.shields.io/badge/Pinterest-FFFFFF?style=for-the-badge&logo=Pinterest&logoColor=000000" 
-          alt="Pinterest"
-          title="My Pinterest"/>
-  </a>
   <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/nguyengiap/" target="_blank">
     <img width="100px" 
